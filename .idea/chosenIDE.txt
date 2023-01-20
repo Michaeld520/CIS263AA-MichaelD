@@ -1,0 +1,7 @@
+The IDE I have decided to use for this course is IntelliJ. My main reason for using this IDE is my prior
+experience with this IDE. After using JGrasp for the first Java course I took at Rio Salado I began an
+Udemy course in order to learn to code with Java. This course was designed around the use of IntelliJ.
+In addition to teaching Java, this course also had demonstrations on IntelliJ itself and made it easier to
+follow along with the instructor. Besides just having experience, I feel IntelliJ is also not missing some
+simpler features that are not present in JGrasp such as the real time error information. All of these factors
+lead me to choose IntelliJ over JGrasp and other IDEs on the market.
