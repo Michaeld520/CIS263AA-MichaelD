@@ -1,0 +1,9 @@
+In addition to being an amazing version control tool, GitHub makes for an amazing way to assemble a portfolio
+to demonstrate a working understanding of what employers are looking for. By creating a repository for work on
+GitHub, it allows future employees to see skill and knowledge used to create working projects. It can also allow
+them to see the steps used to create, change, and get a project to its end result.
+
+To make this even better, GitHub pages allows someone to take a repository and transforms it from what could be
+considered a difficult to read information and turns it into an easy to read and well-designed website. This not
+only helps demonstrate the knowledge the employee is looking for, but also shows a dedication and passion for the
+work being completed. Although this alone cannot guarantee a position, it will go far in impressing future employers.
