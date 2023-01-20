@@ -1,0 +1,8 @@
+One of the IDE I decided against was JGrasp. The main reason I did not chose JGrasp is in the past I have used
+this IDE in the past and was not happy with certain features that are missing. First, the biggest feature it
+was missing when I was attempting to use it was the ability to identify errors outside of compile. This caused
+quite a bit lost work time in that I have to wait until compile to fix any grammatical errors I made have made,
+where other IDE's will notify in real time of these errors and they can be fixed immedietely. The second reason
+I chose to avoid JGrasp is the lack of packages. Although I have not used packages extensively as of yet, I am
+aware this is a very common practice in the industry and I would be setting myself up for failure by not learning
+properly how the code is handled in production.
